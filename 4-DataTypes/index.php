@@ -8,8 +8,18 @@
 </head>
 <body>
     <?php
-        echo("Hello world"); #Echo basically takes PHP code to the outside tag in HTML. In this case <body>
-
+        #Strings
+        $myString = "this is a String";
+        #Char
+        $myChar = 'a';
+        #Float
+        $myFloat = 69.420;
+        #Integer
+        $myInteger = -12;
+        #Boolean
+        $myBoolean = true;
+        #nullptr or NULL
+        null;
     ?>
 </body>
 </html>
